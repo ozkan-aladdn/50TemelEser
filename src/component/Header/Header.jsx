@@ -7,7 +7,7 @@ const Header = () => {
   return (
   <Container>
     <Image src={logo} width={'200px'} className="mt-5"/> <br />
-    <h1 className={`${headerStyle.title} my-2`}>100 Temel Eser</h1>
+    <h1 className={`${headerStyle.title} my-2`}>50 Temel Eser</h1>
   </Container>
   )
 }
